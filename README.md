@@ -18,4 +18,4 @@ I am a Full Stack Engineer with a strong background in developing web applicatio
 Feel free to reach out to me via [email](mailto:somadina6@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/somadina-eze/).
 
 ---
-Checkout some of my pinned projects below:
+## Checkout some of my pinned projects below:
