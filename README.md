@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Somadina Eze - Full Stack Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/somadina-eze/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/somadina/)
 [![Email](https://img.shields.io/badge/Email-somadina6@gmail.com-blue)](mailto:somadina6@gmail.com)
 
 ## About Me
