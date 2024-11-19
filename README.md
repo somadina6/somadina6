@@ -8,7 +8,7 @@
 I am a Full Stack Engineer with a strong background in developing web applications using modern frontend and backend technologies. I have experience in delivering clean and efficient code, creating user-friendly applications, and working in collaborative team environments.
 
 ## Skills
-- **Languages**: JavaScript, TypeScript, C#, Python
+- **Languages**: Java, JavaScript, TypeScript, C#, Python
 - **Frameworks & Libraries**: Angular, React, Node.js, Express, .NET, FLask
 - **Databases**: MongoDB, PostgreSQL, 
 - **Tools & Platforms**: Git, Docker, Jenkins, AWS, Azure, GCP
